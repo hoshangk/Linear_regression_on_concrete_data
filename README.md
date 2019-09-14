@@ -19,5 +19,5 @@ b = the slope.
 u = the regression residual
 
 
-We will use linear regression method to predict the strengtht of the Cement based pn some feature here.
-Regrssion method is the best suited method used for prediction for continuous variable.
+We will use linear regression method to predict the strength of the Cement based on some feature here.
+Regression method is the best suited method used for prediction for continuous variable.
