@@ -1,0 +1,23 @@
+Regression is a method that attempts to determine the strength of the relationship between one dependent variable (usually denoted by Y) and a series of other changing variables (known as independent variables).
+
+The two basic types of regression are linear regression and multiple linear regression, although there are non-linear regression methods for more complicated data and analysis. Linear regression uses one independent variable to explain or predict the outcome of the dependent variable Y, while multiple regression uses two or more independent variables to predict the outcome.
+
+
+The general form of each type of regression is:
+
+Linear regression: Y = a + bX + u
+Multiple regression: Y = a + b1X1 + b2X2 + b3X3 + ... + btXt + u
+
+Where:
+
+Y = the variable that you are trying to predict (dependent variable).
+X = the variable that you are using to predict Y (independent variable).
+a = the intercept.
+b = the slope.
+u = the regression residual
+
+
+We will use linear regression method to predict the strengtht of the Cement based pn some feature here.
+
+
+Regrssion method is the best suited method used for prediction for continuous variable.
